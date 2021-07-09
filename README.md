@@ -1,2 +1,2 @@
 # flutter-camera
-How to use camera in flutter app
+To use camera in flutter app
